@@ -23,3 +23,4 @@ O programa realiza as seguintes etapas:
 - Permite a inserção de um novo paciente após o atendimento
 - Exibe novamente a fila atualizada
 
+Link do projeto no Google Colab: https://colab.research.google.com/drive/1C_I71JOhFkBWJ1O152Z0fkQlDm6rygId#scrollTo=YtK41I7fH19P
